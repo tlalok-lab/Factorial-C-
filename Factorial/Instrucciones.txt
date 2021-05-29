@@ -1,0 +1,5 @@
+Saludos
+
+1.-En la carpoeta de proyecto se encuentra el proyecto realizado en Microsoft Visual Estudio 2019
+2.-En la carpeta Ejecutable se encuentra con el archivo con nombre U4_A7.exe que es el ejecutable de la aplicacion
+3.-En la carpeta de Instalador se encuentrael archivo setup el cual realiza la instalación.
